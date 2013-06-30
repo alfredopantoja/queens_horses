@@ -758,6 +758,56 @@ a:focus {
     
 }
 
+#schools .school {
+    margin-bottom: 55px;    
+}
+
+#schools img {
+    float: left;
+    margin-right: 70px;    
+}
+
+#schools p {
+    font-size: 85%;
+}
+
+#schools .price {
+    font-weight: bold;
+}
+
+#city .improvements {
+    margin-bottom: 55px;    
+    padding-bottom: 20px;
+}
+
+#city img {
+    float: left;
+    margin-right: 70px;    
+}
+
+#city p {
+    font-size: 85%;
+}
+
+#city .price {
+    font-weight: bold;
+}
+
+#manager li {
+    font-size: 80%;
+    margin-bottom: 20px;    
+}
+
+#manager .price {
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+#total .price {
+    font-weight: bold;
+}
+
+
 #breakdown h1 {
 
 }
@@ -772,7 +822,8 @@ a:focus {
     margin-right: 55px;
 }
 #breakdown p {
-    font-size: 60%;    
+    font-size: 60%;   
+    margin-bottom: 20px; 
 }
 
 
