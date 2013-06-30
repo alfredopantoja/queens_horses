@@ -702,6 +702,62 @@ a:focus {
     for you.
 */
 
+#meet-rita img{
+    float: left;
+    margin-right: 25px;
+}
+
+#meet-rita q {
+    margin-bottom: 20px;
+}
+
+#meet-dixon {
+    
+}
+
+#meet-dixon .wrapper {
+    margin-top: 60px;
+}
+
+#meet-dixon img{
+    float: left;   
+    margin-right: 45px; 
+}
+
+#meet-dixon h1 {
+    font-size: 200%;
+    margin-bottom: 35px;
+}
+
+#meet-dixon li {
+    margin-bottom: 20px;    
+}
+
+#meet-dixon .quote {
+    font-weight: bold;
+    font-size: 125%;
+} 
+
+#big img {
+    margin-top: 40px;
+}
+
+#tiny li {
+    font-size: 85%;    
+}
+
+#imagination img {
+    margin-top: 25px;
+}
+
+#one-more-thing img {
+    margin-top: 35px;
+}
+
+#one-more-thing q {
+    
+}
+
 #breakdown h1 {
 
 }
