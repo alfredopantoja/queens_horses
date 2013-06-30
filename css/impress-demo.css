@@ -701,3 +701,22 @@ a:focus {
     Thanks for reading. I hope you enjoyed it at least as much as I enjoyed writing it
     for you.
 */
+
+#breakdown h1 {
+
+}
+
+#breakdown .content {
+    width: 100%;
+    margin-top: 40px;
+}
+
+#breakdown img {
+    float: left;
+    margin-right: 55px;
+}
+#breakdown p {
+    font-size: 60%;    
+}
+
+
