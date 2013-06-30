@@ -822,8 +822,20 @@ a:focus {
     margin-right: 55px;
 }
 #breakdown p {
-    font-size: 60%;   
+    font-size: 80%;   
     margin-bottom: 20px; 
 }
 
+#final img {
+    float: left;
+    margin-right: 50px;
+}
 
+#final p {
+    margin-bottom: 25px;
+    font-size: 60%;   
+}
+
+#final .text {
+    
+}
